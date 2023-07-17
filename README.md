@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Moniker1998
-- 👀 I’m interested in mathematics and actuarial science.
-- 🌱 I’m currently learning actuarial mathematics & elliptic PDE's.
-- 💞️ I’m currently not looking to collaborate.
+- 👋 Hi, I’m Adam.
+- 👀 I’m interested in topology, functional analysis and mathematics in general.
+- 🌱 I’m currently learning about Tychonoff spaces and groups/semigroups equipped with topology.
+- :snake: In the future I want to learn more about dimension theory of Tychonoff spaces, groups/semigroups equipped with topology, and infinite-dimensional manifolds.
 
 <!---
 Moniker1998/Moniker1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
